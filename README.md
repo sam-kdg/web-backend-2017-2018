@@ -4,7 +4,7 @@ Docent: Sam Serrien
 
 Cursus: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
-ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=56428&b=1&c=1)
+ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=76590&b=1&c=1)
 
 ## Deadlines
 
