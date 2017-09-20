@@ -10,7 +10,7 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=765
 
 ## Cursus
 
-De cursus vind je terug op de [Web Backend GitHub repository](https://github.com/samzzi/web-backend). In de [README.md](https://github.com/samzzi/web-backend/blob/master/README.md) vind je instructies terug over hoe je deze cursus moet installeren.
+De cursus vind je terug op de [Web Backend GitHub repository](https://github.com/sam-kdg/web-backend). In de [README.md](https://github.com/sam-kdg/web-backend/blob/master/README.md) vind je instructies terug over hoe je deze cursus moet installeren.
 
 ### Stappenplan voor de installatie:
 
@@ -32,17 +32,17 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 			|- oplossingen
 		```
 
-	- Op Github een repository "web-backend-oplossingen" aanmaken en deze linken aan je oplossingen map. Bekijk [de instructies](https://github.com/samzzi/web-backend#je-eigen-oplossingen-uploaden-naar-je-online-repository).
+	- Op Github een repository "web-backend-oplossingen" aanmaken en deze linken aan je oplossingen map. Bekijk [de instructies](https://github.com/sam-kdg/web-backend#je-eigen-oplossingen-uploaden-naar-je-online-repository).
 
-	- De [cursus via Git binnenhalen](https://github.com/samzzi/web-backend#git-gebruiken-om-cursus-te-downloaden)
+	- De [cursus via Git binnenhalen](https://github.com/sam-kdg/web-backend#git-gebruiken-om-cursus-te-downloaden)
 
-		- Let op: de map "cursus" wordt automatisch aangemaakt met dit commando: ```git clone https://github.com/samzzi/web-backend.git cursus``` (let op het laatste woordje __cursus__. Dat is de naam van de map die aangemaakt zal worden.)
+		- Let op: de map "cursus" wordt automatisch aangemaakt met dit commando: ```git clone https://github.com/sam-kdg/web-backend.git cursus``` (let op het laatste woordje __cursus__. Dat is de naam van de map die aangemaakt zal worden.)
 
 3. Virtual hosts instellen
 
-	- [Instructies](https://github.com/samzzi/web-backend/raw/master/public/cursus/virtual-server-setup.pdf)
+	- [Instructies](https://github.com/sam-kdg/web-backend/raw/master/public/cursus/virtual-server-setup.pdf)
 
-	- Voorbeeld van een [virtual host configuratie](https://raw.githubusercontent.com/samzzi/web-backend/master/public/cursus/vhost-voorbeeld.txt)
+	- Voorbeeld van een [virtual host configuratie](https://raw.githubusercontent.com/sam-kdg/web-backend/master/public/cursus/vhost-voorbeeld.txt)
 
 		- Deze virtual host config kan je integraal overnemen (mits de nodige aanpassingen), op voorwaarde dat je de laatste nieuwe versie van XAMPP (Apache) hebt draaien
 
@@ -72,7 +72,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 - Vroeger doorgaan tijdens de lessen is geen enkel probleem, mits je dit bij het begin van de les laat weten en je tijdens je aanwezigheid hebt laten zien waar je aan gewerkt hebt.
 
-- Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/samzzi/web-backend#contributors)-lijst van de cursus.
+- Heb je foutjes gevonden of klopt er iets niet? Aanpassingen/verbeteringen (pull requests) aan de cursus worden beloond met minstens één extra punt op het eindtotaal én een eerbare vermelding op de [contributors](https://github.com/sam-kdg/web-backend#contributors)-lijst van de cursus.
 
 - Bij problemen (te hoge werkdruk, planning, ...) kan je mij dit in vertrouwen laten weten en dan zoeken we samen naar een oplossing. Het is belangrijk dat je dit -op voorhand- laat weten en niet bv. nadat een deadline is verstreken.
 
