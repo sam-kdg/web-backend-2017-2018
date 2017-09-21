@@ -1,6 +1,6 @@
 # KdG: Web Backend (2017-2018)
 
-Docent: Sam Serrien
+Docent: Sam Serrien test
 
 Cursus: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
