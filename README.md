@@ -8,6 +8,10 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=765
 
 ## Deadlines
 
+- Deadline 01
+	- Deadline: voor de les van donderdag 5 oktober 2016
+	- Opdracht: opzetten van development omgeving en repository zoals beschreven in de cursus
+
 ## Cursus
 
 De cursus vind je terug op de [Web Backend GitHub repository](https://github.com/sam-kdg/web-backend). In de [README.md](https://github.com/sam-kdg/web-backend/blob/master/README.md) vind je instructies terug over hoe je deze cursus moet installeren.
